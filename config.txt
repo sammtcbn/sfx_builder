@@ -1,0 +1,5 @@
+;!@Install@!UTF-8!
+Title="MyApp 1.0"
+BeginPrompt="Do you want to install MyApp 1.0 ?"
+RunProgram="run.bat"
+;!@InstallEnd@!
